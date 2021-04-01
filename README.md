@@ -3,7 +3,7 @@
 
 This is the original version of my personal website. 
 
-If you want to see my new one, go [here](github.com/cortanium/cortanium.github.io)!
+If you want to see my new one, go [here](https://github.com/cortanium/cortanium.github.io)!
 
 
 Everything here is as mostly unchanged as when I first programmed it. 
